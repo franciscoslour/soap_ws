@@ -11,8 +11,6 @@ public class PublicaEstoqueWs {
 		
 		Endpoint.publish(url, estoqueWs);
 		
-		
-		
 	}
 
 }
